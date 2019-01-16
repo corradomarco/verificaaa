@@ -1,0 +1,72 @@
+		body{
+			background-color:black;
+		}
+		.ciao{
+			background-color:grey;
+			padding:20px;
+		}
+		.div1{
+			float:left;
+			margin:-30px;
+			color : white ;
+			
+			padding:50px;
+		}
+		.menu li:hover {
+		  background-color: #0099cc;
+		}
+		.div2{
+			float:left;
+			color:white;
+			background-color:grey;
+			margin:20px;
+		}
+		.li{
+			background-color:grey;
+			color:white;
+		}
+		.footer{
+			float:left;
+			width:100%;
+			background-color:grey;
+			color:white;
+			
+		}
+		.p1{
+			color:white;
+		}
+		.a1{
+			list-style-type:none;
+			background-color:grey;
+			padding:10px;
+			margin:10px;
+			color:white;
+			 text-decoration: none;
+		}
+		.a2{
+			list-style-type:none;
+			 text-decoration: none;
+			background-color:grey;
+			padding:10px;
+			margin:10px;
+		}
+		.a3{
+			list-style-type:none;
+			background-color:grey;
+			padding:10px;
+			margin:10px;
+			 text-decoration: none;
+		}
+		.a4{
+			list-style-type:none;
+			background-color:grey;
+			padding:10px;
+			margin:10px;
+			
+		}
+		.aq{
+			float:left;
+			color:white;
+			
+		}
+	
